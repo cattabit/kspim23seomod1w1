@@ -6,7 +6,7 @@ body {
     
     /* Шапка */
     header {
-    background-color: #7700ff;
+    background-color: #005aff;
     height: 150px;
     display: flex;
     justify-content: center;
@@ -20,7 +20,7 @@ body {
     
     /* Меню */
     nav {
-    background-color: #ded2ff;
+    background-color: #d2ffea;
     padding: 10px;
     font-weight:bold;
     font-size: 120%
@@ -58,13 +58,13 @@ body {
     .sidebar {
     width: 200px; 
     min-height: 300px;
-    background-color: #ba70ff;
+    background-color: #70bdff;
     margin-left: 20px; 
     }
     
     /* Подвал */
     footer {
-    background-color: #370075;
+    background-color: #005aff;
     text-align: center;
     padding: 10px;
     height: 100px;
